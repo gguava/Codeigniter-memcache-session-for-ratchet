@@ -7,8 +7,13 @@ Codeigniter memcache session for ratchet
 Let ci support memcache session
 
 i use ci_memsess,get it from:
+
 https://github.com/davidwisch/ci_memsess 
+
 attention: "Copy config/appconfig.php to the config/ directory in your application folder." maybe some error ,you should Copy config/appconfig.php to the config/config.php
+
+
+
 Let ratchet support memcache session
 
 include Session.ratchet.php
