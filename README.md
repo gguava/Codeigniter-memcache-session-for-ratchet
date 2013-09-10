@@ -1,7 +1,7 @@
 Codeigniter-memcache-session-for-ratchet
 ========================================
 
-<h1>Codeigniter-memcache-session for ratchet</h1>
+
 <p>
 <h2>Let ci support memcache session</h2>
 i use ci_memsess,get it from:<br/>
