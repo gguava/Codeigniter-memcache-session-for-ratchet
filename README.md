@@ -4,7 +4,7 @@ Codeigniter-memcache-session-for-ratchet
 Codeigniter memcache session for ratchet
 
 
-Let ci support memcache session
+<h2>Let ci support memcache session</h2>
 
 i use ci_memsess,get it from:
 
@@ -14,7 +14,7 @@ attention: "Copy config/appconfig.php to the config/ directory in your applicati
 
 
 
-Let ratchet support memcache session
+<h2>Let ratchet support memcache session</h2>
 
 include Session.ratchet.php
 example:
