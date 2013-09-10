@@ -18,6 +18,8 @@ Let ratchet support memcache session
 
 include Session.ratchet.php
 example:
+
 $session=new CI_Session();
-$session->session_id=xxsid;//you must let ratchet know the session_id,i use ajax to post the session_id
+$session->session_id=xxsid;
+//you must let ratchet know the session_id,i use ajax to post the session_id
 echo $session->get("xxx");
